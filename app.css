@@ -1,0 +1,23 @@
+#first{
+
+background-color: cornflowerblue;
+}
+#tiga{
+    
+    background-color: cornflowerblue;
+    }
+#empat{
+   
+    background-color: white;
+    }
+img.foto-produk{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 750px;
+    position: relative;
+}
+
+html{
+    word-wrap: break-word;
+}
